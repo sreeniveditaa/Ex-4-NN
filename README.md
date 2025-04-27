@@ -153,7 +153,8 @@ print(classification_report(y_test,predictions))
 
 ![{661A28EA-57BA-4663-8576-CBB6A3C6A973}](https://github.com/user-attachments/assets/aea3da71-b174-416e-9755-2f491fe1e345)
 
-<H3>Program :</H3>
+<H3>Program : </H3>
+
 ```
 import pandas as pd
 from sklearn.model_selection import train_test_split
@@ -180,6 +181,7 @@ print(confusion_matrix(testing_b,predicted_values))
 print(classification_report(testing_b,predicted_values))
 ```
 <H3>Output:</H3>
+
 ![{711323AE-A78C-4B25-A513-C41572A6A27E}](https://github.com/user-attachments/assets/37fcc9b3-02f1-445e-b98a-b65aa5b613d9)
 
 
